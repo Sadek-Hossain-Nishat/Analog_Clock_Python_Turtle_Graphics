@@ -6,7 +6,7 @@ step 1: Download this project or clone this project
 step 2: install the python 3.x [any version of python3]
 step 3: Open your cmd or powershell in the project folder
 step 4: just write this code "python main.py"
-![preview_image](https://user-images.githubusercontent.com/65479688/134207709-ecb8ab52-857b-44c5-bb1b-6d4e00b553e2.png)
 
+![preview_image](https://user-images.githubusercontent.com/65479688/134207709-ecb8ab52-857b-44c5-bb1b-6d4e00b553e2.png)
 
 Output Preview
